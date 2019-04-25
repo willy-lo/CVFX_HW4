@@ -2,4 +2,27 @@
 
 1.Take a sequence of moving-forward images in NTHU campus.
 
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/50.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/49.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/48.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/47.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/46.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/40.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/35.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/17.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/16.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/13.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/12.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/11.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/9.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/8.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/7.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/6.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/5.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/4.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/3.jpg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/2.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/1.jpg)
+
+
+
