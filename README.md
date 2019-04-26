@@ -94,7 +94,11 @@ SIFT/SURF都是對特徵點的區域性區域的描述，這些特徵點應該�
 
 SIFT與SURF不同點的比較：
 	
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/point.JPG)
+
 SIFT與SURF效果的比較：
+
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/effect.JPG)
 
 由此可見，SIFT在尺度和旋轉變換的情況下效果最好，SURF在亮度變化下匹配效果最好，在模糊方面優於SIFT，而尺度和旋轉的變化不及SIFT，旋轉不變上比SIFT差很多。速度上看，SURF是SIFT速度的3倍。
 
