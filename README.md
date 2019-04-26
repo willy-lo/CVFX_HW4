@@ -22,4 +22,13 @@
 
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/2_.png)
 
+3.Perform image alignment and generate infinite zooming effect
+
+4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
+
+5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
+
+
+
+
 
