@@ -48,7 +48,7 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 
 以下的比較圖則是有用到老師給的ORB來試試，覺得效果還蠻棒的!
 
-![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/2_.png)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/ORB.JPG)
 
 3.Perform image alignment and generate infinite zooming effect
 
