@@ -64,6 +64,7 @@ SURF模擬圖:
 
 5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
 
+6.比較表格:
 
 
 
