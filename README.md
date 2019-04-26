@@ -54,6 +54,14 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 
 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
 
+SIFT模擬圖:
+
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SIFT.JPG)
+
+SURF模擬圖:
+
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SURF.JPG)
+
 5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
 
 
