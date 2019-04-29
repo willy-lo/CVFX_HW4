@@ -79,6 +79,8 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 
 3.Perform image alignment and generate infinite zooming effect
 
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/anigif.gif)
+
 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
 
 SIFT與SURF的共同點：
