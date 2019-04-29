@@ -150,7 +150,9 @@ SURF模擬圖:
 
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SURF.JPG)
 
-從這兩個方法下製造出來的圖，我發現SIFT的效果比較好，SURF的效果比較差，因為我們是在操場上拍的，所以亮度方面是差不多的，所以SURF的特點沒有特別展現出來!
+從操場的圖，這兩個方法下製造出來的，我發現SIFT的效果比較好，SURF的效果比較差，因為我們是在操場上拍的，所以亮度方面是差不多的，所以SURF的特點沒有特別展現出來!
+
+從資電館的圖，這兩個方法下製造出來的，我發現SIFT的效果也比較好，SURF的效果比較差!
 
 5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
 
