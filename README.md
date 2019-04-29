@@ -89,7 +89,7 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 https://www.youtube.com/watch?v=0uFwFojRcjw&feature=youtu.be
 
 以下為操場的版本:
-https://www.youtube.com/watch?v=o3f17NcZGYk&feature=youtu.be
+https://www.youtube.com/watch?v=LP_OlqWAXdI&feature=youtu.be
 
 討論:
 從這兩個影片可以看出操場的效果做出來很糟，因為他對到的線其實沒有辦法很連續的對到很準，所以後來我們才決定要換成資電館8樓來做做看!
@@ -171,8 +171,11 @@ SURF模擬圖:
 
 5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
 
+資電館的版本:
 
 
+操場的版本:
+https://www.youtube.com/watch?v=ZtXZdG_ky4A
 
 
 
