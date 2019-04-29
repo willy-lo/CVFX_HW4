@@ -79,7 +79,7 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 
 3.Perform image alignment and generate infinite zooming effect
 
-這是我們弄出來的其中一個方法:
+這是我們弄出來的其中一個方法主要是呈現動畫的感覺:
 
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/anigif.gif)
 
