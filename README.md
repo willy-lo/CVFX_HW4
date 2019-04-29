@@ -125,6 +125,11 @@ SIFT與SURF效果的比較：
 
 SIFT模擬圖:
 
+資電館:
+
+
+
+操場:
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SIFT.JPG)
 
 SURF模擬圖:
