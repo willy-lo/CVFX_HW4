@@ -86,7 +86,8 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 另外一個在youtube上:
 
 以下為走廊的版本:
-https://www.youtube.com/watch?v=0uFwFojRcjw&feature=youtu.be
+
+https://www.youtube.com/watch?v=sUUBsnLRpYU
 
 以下為操場的版本:
 https://www.youtube.com/watch?v=LP_OlqWAXdI&feature=youtu.be
@@ -172,7 +173,7 @@ SURF模擬圖:
 5.exploit creativity to add some image processing to enhance effect. You can use photoshop to do some effects, such as bluring or coloring.
 
 資電館的版本:
-
+https://www.youtube.com/watch?v=dyBmsC27Kmc
 
 操場的版本:
 https://www.youtube.com/watch?v=ZtXZdG_ky4A
