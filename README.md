@@ -79,7 +79,20 @@ ORB沒有解決尺度不變性的問題（因為FAST本身就不具有尺度不�
 
 3.Perform image alignment and generate infinite zooming effect
 
+這是我們弄出來的其中一個方法:
+
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/anigif.gif)
+
+另外一個在youtube上:
+
+以下為走廊的版本:
+https://www.youtube.com/watch?v=0uFwFojRcjw&feature=youtu.be
+
+以下為操場的版本:
+https://www.youtube.com/watch?v=o3f17NcZGYk&feature=youtu.be
+
+討論:
+從這兩個影片可以看出操場的效果做出來很糟，因為他對到的線其實沒有辦法很連續的對到很準，所以後來我們才決定要換成資電館8樓來做做看!
 
 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
 
