@@ -127,12 +127,18 @@ SIFT模擬圖:
 
 資電館:
 
-
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/Photo/sift.JPG)
 
 操場:
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SIFT.JPG)
 
 SURF模擬圖:
+
+資電館:
+
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/Photo/surf.JPG)
+
+操場:
 
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/SURF.JPG)
 
