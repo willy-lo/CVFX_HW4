@@ -4,6 +4,9 @@
 
 我們所拍攝的是資電館8樓的照片，但一開始我們是在跑道做，後來發現操場跑道不好做，所以我們換成資電館8樓的照片。
 
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/Photo/1.JPG)
+
+
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/50.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/49.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/48.jpg)
