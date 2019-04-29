@@ -2,9 +2,9 @@
 
 1.Take a sequence of moving-forward images in NTHU campus.
 
-我們所拍攝的是操場的照片，那邊陽光比較好，所以覺得比較合適。
+我們所拍攝的是資電館8樓的照片，但一開始我們是在跑道做，後來發現操場跑道不好做，所以我們換成資電館8樓的照片。
 
-![image](https://github.com/willy-lo/CVFX_HW4/blob/master/Photo/1.jpeg)
+![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/50.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/49.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/48.jpg)
 ![image](https://github.com/willy-lo/CVFX_HW4/blob/master/NTHU_campus/47.jpg)
